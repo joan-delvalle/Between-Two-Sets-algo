@@ -1,1 +1,1 @@
-# Between-Two-Sets-algo
+# Between-Two-Sets-algo The program finds numbers that are multiples of all values in the first list and also divisors of all values in the second list. It does this by computing the LCM of the first list, the GCD of the second list, and then counting how many multiples of the LCM evenly divide the GCD.
